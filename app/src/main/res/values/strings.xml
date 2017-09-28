@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">11004851-pset4</string>
+    <string name="todo">Type what to do</string>
+    <string name="Button">Submit to do</string>
+    <string name="TextView">TODO</string>
+
+</resources>
